@@ -121,3 +121,9 @@ MIT
 ## 👋 Author
 
 Built by [@hii24](https://github.com/hii24) · Frontend Engineer · daily MCP user since 2024
+
+## v0.4 changelog
+- 🆕 Time-travel state diffs via `react_diff_state`
+- 🐛 Fixed false-positive re-render counts on Strict Mode double-renders
+- 🛡️ Hardened production safety check (refuses to install on non-localhost)
+
